@@ -1,0 +1,54 @@
+[
+	  {
+		"provincia":"San José",
+		"cantones": ["Central", "Escazú", "Desamparados",
+		  "Puriscal", "Tarrazú", "Aserrí", "Mora", "Goicoechea",
+		  "Santa Ana", "Alajuelita", "Vázquez De Coronado",
+		  "Acosta", "Tibás", "Moravia", "Montes De Oca",
+		  "Turrubares", "Dota", "Curridabat", "Pérez Zeledón",
+		  "León Cortés Castro"
+		]
+	  },
+	  {
+		"provincia": "Alajuela",
+		"cantones": ["San Carlos", "Zarcero", "Sarchí",
+		  "Upala", "Los Chiles", "Guatuso", "Río Cuarto",
+		  "Central", "San Ramón", "Grecia", "San Mateo",
+		  "Atenas", "Naranjo", "Palmares", "Poás", "Orotina"
+		]
+	  },
+	  {
+		"provincia": "Cartago",
+		"cantones": ["Central", "Paraíso", "La Unión",
+		  "Jiménez","Turrialba","Alvarado", "Oreamuno", 
+		  "El Guarco"   
+		]
+	  },
+	  {
+		"provincia": "Heredia",
+		"cantones": ["Sarapiquí", "Central", "Barva",
+		  "Santo Domingo", "Santa Barbara", "San Rafael",
+		  "San Isidro","Belén", "Flores", "San Pablo"      
+		]
+	  },
+	  {
+		"provincia": "Guanacaste",
+		"cantones": ["Liberia", "Nicoya", "Santa Cruz", "Bagaces",
+		  "Carrillo","Cañas","Abangares","Tilarán","Nandayure",
+		  "La Cruz","Hojancha"      
+		]
+	  },
+	  {
+		"provincia": "Puntarenas",
+		"cantones": ["Corredores","Garabito", "Central", 
+		"Esparza", "Buenos Aires", "Montes De Oro", "Osa",
+		  "Quepos", "Golfito", "Coto Brus", "Parrita"
+		]
+	  },
+	  {
+		"provincia": "Limón",
+		"cantones": ["Central", "Pococí","Siquirres", "Talamanca",
+		"Matina","Guácimo"
+		]
+	  }
+]

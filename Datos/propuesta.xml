@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<propuestas>
+  <Propuesta>
+    <Cedula>502680996</Cedula>
+    <Nombre>ARNOLDO</Nombre>
+    <Apellido>ANGULO</Apellido>
+    <Telefono>22181276</Telefono>
+    <Email>ANGULOCR@GMAIL.COM</Email>
+    <Provincia>GUANACASTE</Provincia>
+    <Canton>CARRILLO</Canton>
+    <Descripcion>LA PROPUESTA ES AL FUNCIÓN DE CREAR EL BOTADERO DE BASURA DE LA ZONA CON UNA DE LOS VECINOS QUE TIENEN MAS ESPACIOS EN LA ZONA ALEJADA</Descripcion>
+  </Propuesta>
+  <propuesta>
+    <Cedula>605067124</Cedula>
+    <Nombre>MARÍA</Nombre>
+    <Apellido>FONSECA</Apellido>
+    <Telefono>45654545</Telefono>
+    <Email>MFONSECA@CORREO.COM</Email>
+    <Provincia>CARTAGO</Provincia>
+    <Canton>PARAÍSO</Canton>
+    <Descripcion>ESTA PROPUESTA ES LA DE VERIFICAR LAS RELECCIONES DE LOS DIPUTADOS Y LOS USOS DE LOS AUTOMÓVILES PARA VISITAR LAS COMUNIDADES</Descripcion>
+  </propuesta>
+  <propuesta>
+    <Cedula>122154871512</Cedula>
+    <Nombre>ARNOLDO</Nombre>
+    <Apellido>MEDINA</Apellido>
+    <Telefono>70431052</Telefono>
+    <Email>AANGULOCR@GMAIL.COM</Email>
+    <Provincia>ALAJUELA</Provincia>
+    <Canton>LOS CHILES</Canton>
+    <Descripcion>JÑLKJASKLFJ ÑALKFDJLKÑASDFJ ÑLKSDFJLÑKJF ASFÑKJASDLKÑFJ AÑSLDFKJLÑKSDAFJ SDKFJ ASDÑLFKJLÑKFDJS ÑLASKDFJ</Descripcion>
+  </propuesta>
+  <propuesta>
+    <Cedula>712345678</Cedula>
+    <Nombre>ARNOLDO</Nombre>
+    <Apellido>ANGULO</Apellido>
+    <Telefono>70431052</Telefono>
+    <Email>AANGULOCR@GMAIL.COM</Email>
+    <Provincia>HEREDIA</Provincia>
+    <Canton>SARAPIQUÍ</Canton>
+    <Descripcion>ASDJK 9EJL KASUY ASKFD JKH9USD ASLFKJASK ALSKDFJLÑKSDJ FÑLKJ ASDFLÑJASFDÑLK SDAF</Descripcion>
+  </propuesta>
+</propuestas>
